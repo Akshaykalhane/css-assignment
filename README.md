@@ -1,1 +1,1 @@
-![Design preview for the CSS Assignment](./images/final-view.png)
+![Design preview for the CSS Assignment]
